@@ -1,3 +1,2 @@
 # AppGestStock
-Application de gestion de stock.
-PHP & MySql.
+Application de gestion de stock (PHP & MySql).
